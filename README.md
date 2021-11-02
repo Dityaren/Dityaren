@@ -1,7 +1,8 @@
 [![MasterHead](header.png)](https://github.com/Dityaren)
 <p align="left">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
 </p>
 </br>
 # About ME 💬 :
