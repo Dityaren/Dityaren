@@ -1,6 +1,6 @@
+[![MasterHead](header.png)](https://github.com/Dityaren)
 ### Hi there 👋
 
- <img align="right" alt="Coding" width="400" src="header.png">
 
 <!--
 **Dityaren/Dityaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
