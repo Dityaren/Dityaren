@@ -1,10 +1,6 @@
 [![MasterHead](header.png)](https://github.com/Dityaren)
 
 </br>
-</br>
-</br>
-
-
 # About ME 💬 :
 
 ### - I'm 19 years Android & Web programming Enthusiast from Indonesia.
