@@ -29,11 +29,7 @@
 - ✨ Watching Anime
 - ✨ Reading Web & Light Novels
 - ✨ Badminton & Volleyball
-
 </br>
-</br>
-</br>
-
 
 # Contact Me :
 
@@ -46,20 +42,17 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+<a href="mailto:DitoAdityaSembiringKembaren1@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<a href="https://twitter.com/dityaren">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter.png" />
 </br>
 </br>
 </br>
 </a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+<a href="https://www.reddit.com/user/HumanIsAnimal">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/reddit.png" />
 </a>
  </p>
  
