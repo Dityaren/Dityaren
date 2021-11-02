@@ -47,9 +47,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
 <a href="https://twitter.com/dityaren">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter.png" />
-</br>
-</br>
-</br>
 </a>
 <a href="https://www.reddit.com/user/HumanIsAnimal">
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/reddit.png" />
