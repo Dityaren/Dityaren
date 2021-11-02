@@ -1,8 +1,15 @@
 [![MasterHead](header.png)](https://github.com/Dityaren)
 <p align="left">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/html.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/js.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/css3.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/php.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/python.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/dart.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/tools/visualstudio_code.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
 </p>
 </br>
 # About ME 💬 :
