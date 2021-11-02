@@ -1,5 +1,31 @@
 [![MasterHead](header.png)](https://github.com/Dityaren)
-### Hi there 👋
+
+</br>
+</br>
+</br>
+
+
+# About ME 💬 :
+
+### - I'm 19 years Android & Web programming Enthusiast from Indonesia.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Android Programming
+- ✨ Web Programming
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Web & Light Novels
+- ✨ Badminton & Volleyball
+
+</br>
+</br>
+</br>
+
+
 
 
 <!--
