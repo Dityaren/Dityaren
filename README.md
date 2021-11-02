@@ -16,7 +16,7 @@
 
 ### - I'm 19 years Android & Web programming Enthusiast from Indonesia.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dityaren/Dityaren/blob/main/assets/1.gif">
 
 ### - Learning :
 - ✨ Android Programming
