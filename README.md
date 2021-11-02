@@ -11,7 +11,6 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
 </p>
-</br>
 
 # About ME 💬 :
 
