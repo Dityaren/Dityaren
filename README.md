@@ -17,7 +17,8 @@
 
 ### - I'm 19 years Android & Web programming Enthusiast from Indonesia.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dityaren/Dityaren/blob/main/assets/1.gif">
+<!--<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dityaren/Dityaren/blob/main/assets/1.gif">-->
+<div class="tenor-gif-embed" data-postid="24076530" data-share-method="host" data-aspect-ratio="1.24031" data-width="100%"><a href="https://tenor.com/view/menhera-chan-chibi-menhera-angry-anime-girl-gif-24076530">Menhera Chan Chibi GIF</a>from <a href="https://tenor.com/search/menhera+chan-gifs">Menhera Chan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### - Learning :
 - ✨ Android Programming
