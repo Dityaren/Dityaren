@@ -34,6 +34,7 @@
 # Contact Me :
 <p>
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+    <br>
 <a href="mailto:Dityarens@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/gmail.png" />
 </a>
