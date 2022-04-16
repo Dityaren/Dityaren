@@ -35,10 +35,6 @@
 
 <p>
  </br>
-
-
-
-
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:Dityarens@gmail.com">
