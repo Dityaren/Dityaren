@@ -13,22 +13,7 @@
     </a>
 </p>
 
-# About ME 💬 :
-
-### - I'm 20 years Android & Web programming Enthusiast
-
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dityaren/Dityaren/blob/main/assets/1.gif">
-
-### - Learning :
-- ✨ Android Programming
-- ✨ Web Programming
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Web & Light Novels
-- ✨ Badminton & Volleyball
-</br>
 
 # Contact Me :
 <p>
