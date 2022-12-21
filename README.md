@@ -13,7 +13,7 @@
     </a>
 </p>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dityaren/Dityaren/blob/main/assets/1.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dityaren/Dityaren/blob/main/assets/3.gif">
 
 # Contact Me :
 <p>
