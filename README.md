@@ -12,8 +12,6 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
     </a>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dityaren/Dityaren/blob/main/assets/3.gif">
-
 # Contact Me :
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
     <br>
