@@ -6,7 +6,7 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
-  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=dityaren&hide_border=true&show_icons=true" alt="dityaren's github stats"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">❤ I'm currently working on Software, Web, and Game Dev.</p>
 
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
