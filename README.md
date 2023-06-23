@@ -1,42 +1,35 @@
-<p align="left">
-    <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
-    </a>
+<p align="center">
+  <a href="#"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+</p>
 
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+<h1 align="center">Hi, I'm <a href="https://github.com/dityaren">Dityaren</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile</h1>
 
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
+<p align="center">
+  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+</p>
+
+<p align="center">
+  <strong><a href="https://www.edisonlee55.com">Official Website</a></strong> |
+  <strong><a href="https://twitter.com/edisonlee55">Twitter</a></strong> |
+  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
+  <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
+</p>
+
+<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+
+<!--
+**edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
