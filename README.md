@@ -9,7 +9,7 @@
 <p align="center">
   <strong><a href="#">Official Website</a></strong> |
   <strong><a href="https://twitter.com/dityaren">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/ZDnKQ3xp">Discord</a></strong> |
+  <strong><a href="https://discord.gg/ZDnKQ3xp">Discord</a></strong>
 </p>
 
 <p align="center">❤ I'm currently working on Software, Web, and Game Dev.</p>
