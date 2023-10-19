@@ -1,5 +1,5 @@
 # Hello there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=28&left=true&vCenter=true&width=1000&lines=Hello,+I+am+Dityaren.;Software+Engineer.;Web+Developer.)](https://git.io/typing-svg)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
@@ -39,6 +39,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dityaren&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <!-- ## &#x1f4c8; GitHub Stats
 
