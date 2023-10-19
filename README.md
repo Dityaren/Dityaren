@@ -1,6 +1,5 @@
 # Hello there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=28&left=true&vCenter=true&width=1000&lines=Hello,+I+am+Dityaren.;Software+Engineer.;Web+Developer.)](https://git.io/typing-svg)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=28&left=true&vCenter=true&width=1000&lines=Hello+There+👋;I+am+Dityaren.;Software+Engineer.;Web+Developer.)](https://git.io/typing-svg)
 
 
 ```python
