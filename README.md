@@ -23,8 +23,8 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- [WIP] Personal website and blog: https://dityaren.codes
-- [WIP] LeetCode Journey: https://github.com/Dityaren/LeetCode-Journey/
+- Personal website and blog: https://dityaren.codes
+- LeetCode Journey: https://github.com/Dityaren/LeetCode-Journey/
 
 
 ## 🔧 Technologies & Tools
