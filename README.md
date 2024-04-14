@@ -51,11 +51,11 @@ me.say_hi()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
+<a href="https://github.com/Dityaren/Smart-Garden-IoT-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dityaren&repo=Smart-Garden-IoT-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="LeetCode-Journey" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+<a href="https://github.com/Dityaren/Face-Recognition-Attendance-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dityaren&repo=Face-Recognition-Attendance-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Face-Recognition-Attendance-System" />
 </a>
 
